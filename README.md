@@ -1,6 +1,7 @@
 # Raft-based-Replicated-Block-Store
 
 This is our course project of CS 739: Distributed Systems.
+[Repo Link](https://github.com/SmileIsThinking/Raft-based-Replicated-Block-Store)
 
 ## Run the code
 To compile both the client and server:
