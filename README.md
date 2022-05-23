@@ -1,4 +1,6 @@
-# CS 739-project-4
+# Raft-based-Replicated-Block-Store
+
+This is our course project of CS 739: Distributed Systems.
 
 ## Run the code
 To compile both the client and server:
